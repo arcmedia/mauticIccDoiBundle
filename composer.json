@@ -9,6 +9,6 @@
         }
     },
     "extra": {
-        "install_path": "plugins/IccDoiBundle"
+        "install-directory-name": "IccDoiBundle"
     }
 }
