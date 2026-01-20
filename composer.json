@@ -1,0 +1,14 @@
+{
+    "name": "arcmedia/mautic-icc-doi-bundle",
+    "description": "DOI process bundle",
+    "type": "mautic-plugin",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "MauticPlugin\\IccDoiBundle\\": ""
+        }
+    },
+    "extra": {
+        "install_path": "plugins/IccDoiBundle"
+    }
+}
